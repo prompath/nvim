@@ -1,4 +1,4 @@
-local keymap = vim.keymap 
+local keymap = vim.keymap
 
 local config = function()
 	local telescope = require("telescope")

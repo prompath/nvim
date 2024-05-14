@@ -3,7 +3,7 @@ return {
   lazy = false,
   config = {
     filters = {
-      dot
+      dotfiles = false
     }
   }
 }
