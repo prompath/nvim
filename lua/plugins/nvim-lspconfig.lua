@@ -22,7 +22,7 @@ local config = function()
   lspconfig.clangd.setup({})
 
   -- Python
-  lspconfig.pyright.setup({})
+  lspconfig.ruff.setup({})
 end
 
 return {
